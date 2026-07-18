@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+Raman</a></h1>
+<h3 align="center">A passionate full stack web developer from UP India &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -12,15 +12,12 @@ Saurabh</a></h1>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Web App(React-Native)
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Python && data analysis  
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramann_tomar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raman-tomar-4448b0305/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Raman Tomar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramantomar252@gmail.com) 
 
